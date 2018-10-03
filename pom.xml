@@ -11,6 +11,10 @@
             <url>http://opensource.org/licenses/MIT</url>
         </license>
     </licenses>
+	<scm>
+		<url>URL TO SVN REPOSITORY</url>
+	</scm>
+
     <build>
         <plugins>
             <plugin>
