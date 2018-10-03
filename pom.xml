@@ -12,7 +12,7 @@
         </license>
     </licenses>
 	<scm>
-		<url>URL TO SVN REPOSITORY</url>
+		<url>git 'https://github.com/kksahu81/Example.git'</url>
 	</scm>
 
     <build>
