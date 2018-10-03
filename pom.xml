@@ -12,6 +12,7 @@
         </license>
     </licenses>
 	<scm>
+		<id>deploymentRepo</id>
 		<url>git 'https://github.com/kksahu81/Example.git'</url>
 	</scm>
 
@@ -41,7 +42,7 @@
 		<repository>
 			<id>deploymentRepo</id>
 			<name>Corporate Releases</name>
-			<url>https://github.com/kksahu81/simple-maven-project-with-tests</url>
+			<url>https://github.com/kksahu81/Example</url>
 		</repository>
 	
 	</distributionManagement>
