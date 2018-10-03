@@ -11,10 +11,7 @@
             <url>http://opensource.org/licenses/MIT</url>
         </license>
     </licenses>
-	<scm>
-	
-		<url>https://github.com/kksahu81/Example.git</url>
-	</scm>
+
 
     <build>
         <plugins>
