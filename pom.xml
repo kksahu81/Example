@@ -12,7 +12,7 @@
         </license>
     </licenses>
 	<scm>
-		<id>deploymentRepo</id>
+	
 		<url>git 'https://github.com/kksahu81/Example.git'</url>
 	</scm>
 
